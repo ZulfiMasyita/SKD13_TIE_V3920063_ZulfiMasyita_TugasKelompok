@@ -1,0 +1,31 @@
+body {
+    align-items: center;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    
+  }
+
+.container-md {
+    background-color: pink;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 500px;
+    padding: 20px;
+    width: 320px;
+  }
+
+.form-floating mb-3 {
+    background-color: #303245;
+  border-radius: 12px;
+  border: 0;
+  box-sizing: border-box;
+  color: #eee;
+  font-size: 18px;
+  height: 100%;
+  outline: 0;
+  padding: 4px 20px 0;
+  width: 100%;
+}
+
